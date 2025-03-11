@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@types/wouter": "^2.0.1"
+  }
+}
